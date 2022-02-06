@@ -285,7 +285,7 @@ header {
   -webkit-backdrop-filter: blur(2rem);
           backdrop-filter: blur(2rem);
   opacity: 0.95;
-  z-index: 999;
+  z-index: 1000;
   -webkit-transition: height 500ms ease;
   transition: height 500ms ease;
 }
