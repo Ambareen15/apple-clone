@@ -9,7 +9,7 @@
 
 .open {
   height: 100vh;
-  z-index: 1;
+  z-index: 9999;
   background-color: #000;
   opacity: 1;
   -webkit-transition: height 500ms ease;
